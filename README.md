@@ -1,4 +1,4 @@
-# 🛒 devElevate – Full-Stack React E-Commerce Store
+# 🛒 DevElevate – Full-Stack React E-Commerce Store
 
 Welcome to **devElevate**, a full-featured eCommerce application built with modern web technologies. This project is designed to help developers learn and practice building a scalable frontend + backend store.
 
